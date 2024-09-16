@@ -33,10 +33,8 @@
 <footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ferreyradamian&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreyradamian&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreyradamian&show_icons=true&langs_count=15&hide=css&layout=donut-vertical&theme=radical" height="500">
     </p>
 </footer>
-
-------
-
-Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
