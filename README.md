@@ -4,7 +4,6 @@
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
-            <li>👨‍🎓 I'm learning Python + Java at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: ferreyradamian3755@gmail.com</li>
             <li>💼 I am working on side jobs</li>
