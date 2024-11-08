@@ -10,10 +10,3 @@
         </ul>
     </h3>
 </header>
-<hr>
-<hr>
-<footer align="center">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ferreyradamian&include_all_commits=true&show_icons=true&theme=radical" height="250">
-    </p>
-</footer>
