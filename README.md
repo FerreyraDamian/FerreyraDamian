@@ -6,7 +6,7 @@
             <li>🔭 I'm currently figuring out what to specialize in</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: ferreyradamian3755@gmail.com</li>
-            <li>💼 I am working on side jobs</li>
+            <li>💼 I am contributing on open-source</li>
         </ul>
     </h3>
 </header>
