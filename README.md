@@ -16,7 +16,4 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ferreyradamian&include_all_commits=true&show_icons=true&theme=radical" height="250">
     </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreyradamian&show_icons=true&langs_count=15&hide=css&layout=donut-vertical&theme=radical" height="500">
-    </p>
 </footer>
